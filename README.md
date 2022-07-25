@@ -1,4 +1,9 @@
 # Binary trees
+
+Is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+
+![img](https://imgur.com/a/RYW9CY8)
+
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
