@@ -9,7 +9,7 @@
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
-    binary_tree_t *nodo_new;
+	binary_tree_t *nodo_new;
 
 	if (!(parent))
 		return (NULL);
@@ -32,3 +32,4 @@ binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 
 	return (nodo_new);
 }
+
